@@ -31,7 +31,7 @@ function drawCartProducts(products) {
                         <div class="col-4">
                             <img src="${item.imageUrl}" class="img-fluid rounded-start colwhi h-100" alt="${item.title}">
                         </div>
-                        <div class="col-8">
+                        <div class="col-8 cardMM-2">
                             <div class="card-body d-flex flex-column justify-content-between h-100">
                                 <h5 class="card-title">Product: ${item.title}</h5>
                                 <h5 class="card-title">Price: ${item.price}$</h5>
