@@ -25,7 +25,7 @@ function drawCartProducts(products) {
         allPrice += item.quantity * item.price;
 
         return `
-            <div class="col colwh text-center ">
+            <div class="col text-center ">
                 <div class="card cardMM">
                     <div class="row g-0 h-100">
                         <div class="col-4">
