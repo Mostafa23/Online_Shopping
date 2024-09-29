@@ -145,17 +145,17 @@ nav li a {
 }
 
 @media (max-width: 700px) {
-    .section_form_register{
+    .section_form_register {
         top : 350px;
     }
 }
 
 @media (max-width: 400px) {
-    .section_form_login{
+    .section_form_login {
         top : 350px;
     }
     
-    .section_form_register{
+    .section_form_register {
         top : 370px;
     }
 
@@ -283,6 +283,9 @@ nav li a {
     flex-direction: column;
 }
 
+.cardMM-2 {
+    overflow: auto;
+}
 
 .btnN {
     font-size: 16px; 
