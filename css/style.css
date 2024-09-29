@@ -150,6 +150,20 @@ nav li a {
     }
 }
 
+@media (max-width: 400px) {
+    .section_form_login{
+        top : 350px;
+    }
+    
+    .section_form_register{
+        top : 370px;
+    }
+
+    .section_form_ form {
+        width: 75%;
+    }
+}
+
 @media (max-width: 500px) {
     .brand  {
         font-size: 20px;
